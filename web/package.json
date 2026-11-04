@@ -43,8 +43,8 @@
     "fabric": "^7.0.0",
     "geo-coordinates-parser": "^1.7.4",
     "geojson": "^0.5.0",
-    "handlebars": "^4.7.8",
-    "happy-dom": "^20.0.0",
+    "handlebars": "^4.7.10",
+    "happy-dom": "^21.0.4",
     "hash-wasm": "^4.12.0",
     "hls-video-element": "^1.5.11",
     "hls.js": "^1.6.16",
@@ -78,7 +78,7 @@
     "@socket.io/component-emitter": "^3.1.0",
     "@sveltejs/adapter-static": "^3.0.8",
     "@sveltejs/enhanced-img": "^0.11.0",
-    "@sveltejs/kit": "^2.56.1",
+    "@sveltejs/kit": "^3.0.0",
     "@sveltejs/vite-plugin-svelte": "7.3.1",
     "@tailwindcss/vite": "^4.2.4",
     "@testing-library/jest-dom": "^7.0.0",
@@ -103,7 +103,7 @@
     "eslint-plugin-unicorn": "^76.0.0",
     "factory.ts": "^1.4.1",
     "globals": "^17.0.0",
-    "happy-dom": "^20.0.0",
+    "happy-dom": "^21.0.4",
     "prettier": "^3.7.4",
     "prettier-plugin-sort-json": "^4.1.1",
     "prettier-plugin-svelte": "^4.0.0",
@@ -114,7 +114,7 @@
     "tailwindcss": "^4.2.4",
     "typescript": "npm:@typescript/typescript6@^6.0.2",
     "typescript-eslint": "^8.45.0",
-    "vite": "^8.0.0",
+    "vite": "^8.3.3",
     "vitest": "^4.0.0"
   }
 }
